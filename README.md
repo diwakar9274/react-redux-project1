@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+#website is available here on netifly
+https://cheery-griffin-6e3f0b.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
